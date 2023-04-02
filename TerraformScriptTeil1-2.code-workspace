@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../TerraformScriptTeil1-2"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../terraformSnapshot"
+		}
+	],
+	"settings": {}
+}
